@@ -1,5 +1,5 @@
 {
-    "name": "craigmason/doctrine-sqlserver-extensions",
+    "name": "drewclauson/doctrine-sqlserver-extensions",
     "description": "SQL Server specific extensions for Doctrine to make life easier",
     "keywords": ["dbal", "database", "sqlserver"],
     "require": {
